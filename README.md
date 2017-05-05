@@ -1,1 +1,1 @@
-# valet-docker-database
+# docker-compose-mysql
