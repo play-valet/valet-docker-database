@@ -1,3 +1,1 @@
-# docker-compose-mysql
-
-https://github.com/valet-org/valet
+https://github.com/play-valet/valet
